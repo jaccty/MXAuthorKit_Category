@@ -1,0 +1,30 @@
+{
+  "name": "MXAuthorKit_Category",
+  "version": "1",
+  "summary": "A short description of MXAuthorKit_Category.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jaccty/MXAuthorKit_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "848941531@qq.com": "848941531@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jaccty/MXAuthorKit_Category.git",
+    "tag": "1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MXAuthorKit_Category/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ],
+    "MXAPIsKit": [
+
+    ]
+  }
+}

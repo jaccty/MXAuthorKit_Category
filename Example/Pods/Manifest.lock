@@ -1,0 +1,39 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - CTMediator (12)
+  - MXAPIsKit (1):
+    - AFNetworking
+  - MXAuthorKit_Category (1):
+    - CTMediator
+    - MXAPIsKit
+
+DEPENDENCIES:
+  - MXAuthorKit_Category (from `../`)
+
+EXTERNAL SOURCES:
+  MXAuthorKit_Category:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  CTMediator: 83043d198b7ea73214d53375adfdd7f60edd4c1a
+  MXAPIsKit: a1985b0a295b6afba5c563d49db3b0f79efd4d6c
+  MXAuthorKit_Category: 133bf67b146c2cdc5dd4f3afd3882068c373b727
+
+PODFILE CHECKSUM: 09af280f36a733a4e69f6860969ac4f6c2dc87bb
+
+COCOAPODS: 1.3.1
